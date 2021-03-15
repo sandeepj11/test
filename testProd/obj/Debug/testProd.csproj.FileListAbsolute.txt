@@ -1,0 +1,12 @@
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\testProd.exe.config
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\testProd.exe
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\testProd.pdb
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\RestSharp.dll
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\RestSharp.xml
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\obj\Debug\testProd.csprojAssemblyReference.cache
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\obj\Debug\testProd.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\obj\Debug\testProd.csproj.CopyComplete
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\obj\Debug\testProd.exe
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\obj\Debug\testProd.pdb
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sandeep.J11\source\repos\testProd\testProd\bin\Debug\Newtonsoft.Json.xml
